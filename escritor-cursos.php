@@ -5,7 +5,7 @@ $curso = "\nDesing Patterns PHP II: Boas práticas de programação";
 
 file_put_contents('curso-php.txt', $curso, FILE_APPEND);
 
-// *** OUTRA FUNÇÃO PARA INCLUSAO DE INFORMAÇOES EM ARQUIVOS, MAIS UTILIZADA
+// *** OUTRA FUNÇÃO PARA ESCREVER EM ARQUIVOS, MAIS UTILIZADA
 // $curso = "Design Patterns PHP I: Boas práticas de programação";
 
 // file_put_contents('cursos-php.txt', $curso);
