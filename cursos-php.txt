@@ -1,0 +1,3 @@
+Desing Patterns PHP I: Boas práticas de programação
+Desing Patterns PHP II: Boas práticas de programação
+Orientacao a Objetos com PHP
